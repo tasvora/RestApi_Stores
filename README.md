@@ -1,2 +1,5 @@
 # RestApi_Stores
-Heroku Deployment with Flask , Rest Api and Python
+This is built with Flask, Flask-Restful, Flask-JWT, and Flask-SQLAlchemy.
+Deployed on Heroku
+
+
